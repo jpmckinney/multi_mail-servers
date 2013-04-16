@@ -1,5 +1,7 @@
+require 'pp'
+
 class EmailsController < ActionController::Base
   def create
-    render :text => params.inspect
+    render :text => PP.pp(params, '')
   end
 end
