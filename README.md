@@ -1,6 +1,6 @@
-# MultiMail Test Servers
+# MultiMail: Test servers
 
-This repository contains servers to help test the [MultiMail gem](http://github.com/opennorth/multi_mail) in real environments.
+This repository contains servers to help test the [MultiMail gem](http://github.com/jpmckinney/multi_mail) in real environments.
 
 ## Rails
 
@@ -24,4 +24,4 @@ You can now send requests to `http://0.0.0.0:9292`. For example, if from within 
 
 You will get [this response](https://gist.github.com/jpmckinney/5399854).
 
-Copyright (c) 2012 Open North Inc., released under the MIT license
+Copyright (c) 2012 James McKinney, released under the MIT license
