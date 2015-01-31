@@ -1,6 +1,6 @@
 # MultiMail: Test servers
 
-This repository contains servers to help test the [MultiMail gem](http://github.com/jpmckinney/multi_mail) in real environments.
+This repository contains servers to help test the [MultiMail gem](https://github.com/jpmckinney/multi_mail) in real environments.
 
 ## Rails
 
